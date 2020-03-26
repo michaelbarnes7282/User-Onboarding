@@ -11,4 +11,5 @@ function App() {
   );
 }
 
+// Added some testing :)
 export default App;
